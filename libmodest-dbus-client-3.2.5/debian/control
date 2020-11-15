@@ -23,6 +23,6 @@ Description: library wrapping modest's dbus interface (dev package)
 Package: libmodest-dbus-client-dbg
 Section: devel
 Architecture: any
-Depends: libmodest-dbus-client (=${Source-Version})
+Depends: libmodest-dbus-client (=${source:Version})
 Description: debug package for modest dbus client
  This package contains the debug symbols for modest dbus client

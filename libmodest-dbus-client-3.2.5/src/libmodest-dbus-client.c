@@ -778,13 +778,13 @@ libmodest_dbus_client_search (osso_context_t          *osso_ctx,
 {
 
 	DBusMessage *msg;
-	dbus_bool_t res;
+	//dbus_bool_t res;
 	DBusConnection *con;
 	DBusMessageIter iter;
 	DBusMessageIter child;
 	DBusMessage *reply = NULL;
 	gint timeout;
-	int arg_type;
+	//int arg_type;
 	dbus_int64_t sd_v;
 	dbus_int64_t ed_v;
 	dbus_int32_t flags_v;
@@ -822,7 +822,8 @@ libmodest_dbus_client_search (osso_context_t          *osso_ctx,
 	flags_v = (dbus_int32_t) flags;
 	size_v = (dbus_uint32_t) min_size;
 
-	res  = dbus_message_append_args (msg,
+	//res  =
+	dbus_message_append_args (msg,
 					 DBUS_TYPE_STRING, &query,
 					 DBUS_TYPE_STRING, &folder,
 					 DBUS_TYPE_INT64, &sd_v,
@@ -883,7 +884,8 @@ libmodest_dbus_client_search (osso_context_t          *osso_ctx,
 	g_debug ("%s: message return", __FUNCTION__);
 
 	dbus_message_iter_init (reply, &iter);
-	arg_type = dbus_message_iter_get_arg_type (&iter);
+	//arg_type = 
+	dbus_message_iter_get_arg_type (&iter);
 	
 	dbus_message_iter_recurse (&iter, &child);
 	*hits = NULL;
@@ -1047,15 +1049,15 @@ libmodest_dbus_client_get_unread_messages (osso_context_t          *osso_ctx,
 					   GList **account_hits_lists)
 {
 
-	dbus_bool_t res;
+	//dbus_bool_t res;
 	DBusMessageIter iter;
 	DBusMessageIter child;
 	DBusMessage *reply = NULL;
-	int arg_type;
+	//int arg_type;
 
 	DBusConnection *con;
 	DBusMessage *msg;
-	dbus_int32_t msgs_per_account_v;
+	//dbus_int32_t msgs_per_account_v;
 	DBusError err;
 	gint timeout;
 
@@ -1082,9 +1084,10 @@ libmodest_dbus_client_get_unread_messages (osso_context_t          *osso_ctx,
 		return OSSO_ERROR;
 	}
 
-	msgs_per_account_v = (dbus_int32_t) msgs_per_account;
+	//msgs_per_account_v = (dbus_int32_t) msgs_per_account;
 
-	res  = dbus_message_append_args (msg,
+	//res  = 
+	dbus_message_append_args (msg,
 					 DBUS_TYPE_INT32, &msgs_per_account,
 					 DBUS_TYPE_INVALID);
 
@@ -1131,7 +1134,7 @@ libmodest_dbus_client_get_unread_messages (osso_context_t          *osso_ctx,
 	g_debug ("%s: message return", __FUNCTION__);
 
 	dbus_message_iter_init (reply, &iter);
-	arg_type = dbus_message_iter_get_arg_type (&iter);
+	//arg_type = dbus_message_iter_get_arg_type (&iter);
 	
 	dbus_message_iter_recurse (&iter, &child);
 	*account_hits_lists = NULL;
