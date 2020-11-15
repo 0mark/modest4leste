@@ -13,7 +13,9 @@ My [fork](https://github.com/0mark/tinymail), which already has the patches ment
 ## Modest
 
 Modest depends on either WebKitGtk or GtkHtml as a HTML renderer. There is no option to disable rendering completely. WebKitGtk is not maintained for many years and was known to have security issues. GtkHtml is also not maintained for years. 
-I think a decent quick solutiuon would be to simply use GtkHtml. Yes, its unmaintained. But i think it poses not much of a threat, considering its low complexity and high obscurity. Not more than using an equaly unmaintained mail lib anyway. To do so, Modest has to be adopt GtkHtml 4, as it depends on 3.8, which uses deprecated GDK methods. Hopefully that would not be too hard.
+
+I think a decent quick solutiuon would be to simply use GtkHtml. Yes, its unmaintained. But i think it poses not much of a threat, considering its low complexity and high obscurity. Not more than using an equaly unmaintained mail lib anyway. To do so, Modest has to be adopt GtkHtml 4, as it depends on 3.8, which uses deprecated GDK methods. Hopefully that would not be too hard. A copy of GtkHtml with all files to build a deb is in this repo.
+
 A better, and not to hard, solution would be to either remove the html view or replace GtkHtml by either Dillo or a simple Textbox and a filter (like Elinks).
 
 Like Tinymail, Modest depends on GnomeVfs2. And has to be ported to Gvfs too.
