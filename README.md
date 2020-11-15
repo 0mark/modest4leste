@@ -4,7 +4,7 @@ This is the documentation for the ongoing project to port the mail client [Modes
 
 ## Tinymail
 
-Depends on Gnomevfs2. Needs to be ported to Gvfs. As described [here](https://github.com/maemo-leste/bugtracker/issues/207), Tinymail can compile on Ascii (which still had gnomevfs2), but not on Beowulf anymore.
+Depends on Gnomevfs2. Needs to be ported to Gvfs. With some slight modifications (as described [here](https://github.com/maemo-leste/bugtracker/issues/207)), Tinymail compiles on Ascii (which still had gnomevfs2), but not on Beowulf anymore.
 
 This method disables the optional HTML renderer. Possible renderer are Webkit, Mozembed and GtkHtml. Modest only can be build with WebKit or GtkHtml. I guess (but do not know) that Tinymail has to be build with the same renderer.
 
