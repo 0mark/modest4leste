@@ -1,0 +1,108 @@
+Source: gtkhtml4.0
+Section: gnome
+Priority: optional
+Maintainer: Debian Evolution Maintainers <pkg-evolution-maintainers@lists.alioth.debian.org>
+Uploaders: Loic Minier <lool@dooz.org>,
+           Heikki Henriksen <heikkih@gmail.com>,
+           Oystein Gisnas <oystein@gisnas.net>,
+           Pedro Fragoso <ember@ubuntu.com>,
+           Josselin Mouette <joss@debian.org>,
+           Jordi Mallach <jordi@debian.org>
+Standards-Version: 3.9.6
+Homepage: http://www.gnome.org/projects/evolution/
+Vcs-Svn: svn://anonscm.debian.org/svn/pkg-evolution/unstable/gtkhtml4.0
+Vcs-Browser: http://anonscm.debian.org/viewvc/pkg-evolution/unstable/gtkhtml4.0
+Build-Depends: debhelper (>= 9),
+               cdbs (>= 0.4.90),
+               dpkg-dev (>= 1.16.1),
+               dh-autoreconf,
+               pkg-config,
+               libtool,
+               libgtk-3-dev (>= 3.0.2),
+               libenchant-dev (>= 1.1.7),
+               gsettings-desktop-schemas-dev,
+               gnome-icon-theme (>= 2.22.0),
+               libcairo2-dev (>= 1.10.0),
+               intltool (>= 0.36.3),
+               libgail-3-dev (>= 3.0),
+               iso-codes (>= 0.49),
+               liborbit2-dev,
+               libsoup2.4-dev (>= 2.26),
+               x11proto-core-dev,
+               gnome-pkg-tools
+
+Package: libgtkhtml-4.0-0
+Architecture: any
+Section: libs
+Depends: ${shlibs:Depends},
+         ${misc:Depends},
+         libgtkhtml-4.0-common (= ${source:Version})
+Description: HTML rendering/editing library - runtime files
+ GtkHTML is a lightweight HTML rendering/printing/editing engine.
+ .
+ This package contains the library and the translations.
+
+Package: libgtkhtml-4.0-dev
+Architecture: any
+Section: libdevel
+Depends: libgtkhtml-4.0-0 (= ${binary:Version}),
+         ${misc:Depends},
+         ${shlibs:Depends},
+         gsettings-desktop-schemas-dev,
+         iso-codes,
+         libcairo2-dev (>= 1.10.0),
+         libenchant-dev (>= 1.1.7),
+         libgconf2-dev,
+         libgtk-3-dev (>= 3.0.2)
+Description: HTML rendering/editing library - development files
+ GtkHTML is a lightweight HTML rendering/printing/editing engine.
+ .
+ This package contains the headers and files used for development.
+
+Package: libgtkhtml-4.0-dbg
+Architecture: any
+Section: debug
+Priority: extra
+Depends: libgtkhtml-4.0-0 (= ${binary:Version}),
+         libgtkhtml-editor-4.0-0 (= ${binary:Version}),
+         ${misc:Depends}
+Description: HTML rendering/editing library - debug files
+ GtkHTML is a lightweight HTML rendering/printing/editing engine.
+ .
+ This package contains the unstripped libraries used for debugging purposes.
+
+Package: libgtkhtml-editor-4.0-0
+Architecture: any
+Section: libs
+Depends: ${shlibs:Depends},
+         ${misc:Depends},
+         libgtkhtml-4.0-common (= ${source:Version}),
+         libgtkhtml-4.0-0 (= ${binary:Version})
+Description: HTML rendering/editing library - editor widget
+ GtkHTML is a lightweight HTML rendering/printing/editing engine.
+ .
+ This package contains the editor widget.
+
+Package: libgtkhtml-4.0-common
+Section: libs
+Architecture: all
+Depends: ${shlibs:Depends},
+         ${misc:Depends},
+         gnome-icon-theme (>= 2.22.0)
+Description: HTML rendering/editing library - common data
+ GtkHTML is a lightweight HTML rendering/printing/editing engine.
+ .
+ This package contains the translations and the editor widget data.
+
+Package: libgtkhtml-editor-4.0-dev
+Architecture: any
+Section: libdevel
+Priority: extra
+Depends: libgtkhtml-editor-4.0-0 (= ${binary:Version}),
+         libgtkhtml-4.0-dev (= ${binary:Version}),
+         ${misc:Depends},
+         ${shlibs:Depends}
+Description: HTML rendering/editing library - editor widget development files
+ GtkHTML is a lightweight HTML rendering/printing/editing engine.
+ .
+ This package contains the headers and files used for development.

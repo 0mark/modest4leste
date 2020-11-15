@@ -1,0 +1,2287 @@
+# Turkish translations for gtkhtml messages.
+# Copyright (C) 1999-2002, 2004, 2005 Free Software Foundation, Inc.
+# Fatih Demir <kabalak@gtranslator.org>, 2001.
+# Nilgün Belma Bugüner <nilgun@fide.org>, 2001, 2002.
+# Onur Can ÇAKMAK <onur.cakmak@gmail.com>, 2006.
+# Baris Cicek <baris@teamforce.name.tr>, 2008.
+# Muhammet Kara <muhammetk@gmail.com>, 2014.
+# Necdet Yücel <necdetyucel@gmail.com>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gtkhtml\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gtkhtml"
+"&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2014-12-22 22:07+0000\n"
+"PO-Revision-Date: 2014-12-23 00:02+0000\n"
+"Last-Translator: Necdet Yücel <necdetyucel@gmail.com>\n"
+"Language-Team: Türkçe <gnome-turk@gnome.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1419292972.000000\n"
+
+#: ../a11y/image.c:152
+#, c-format
+msgid "URL is %s, Alternative Text is %s"
+msgstr "URL %s, Alternatif Yazı %s"
+
+#: ../a11y/image.c:154
+#, c-format
+msgid "URL is %s"
+msgstr "URL %s"
+
+#: ../a11y/object.c:54 ../a11y/object.c:64 ../a11y/text.c:126
+msgid "grab focus"
+msgstr "odağı yakala"
+
+#: ../a11y/object.c:234
+msgid "Panel containing HTML"
+msgstr "HTML içeren Panel"
+
+#: ../components/editor/gtkhtml-color-combo.c:77
+msgid "black"
+msgstr "siyah"
+
+#: ../components/editor/gtkhtml-color-combo.c:78
+msgid "light brown"
+msgstr "açık kahverengi"
+
+#: ../components/editor/gtkhtml-color-combo.c:79
+msgid "brown gold"
+msgstr "koyu kahverengi"
+
+#: ../components/editor/gtkhtml-color-combo.c:80
+msgid "dark green #2"
+msgstr "koyu yeşil #2"
+
+#: ../components/editor/gtkhtml-color-combo.c:81
+msgid "navy"
+msgstr "deniz mavisi"
+
+#: ../components/editor/gtkhtml-color-combo.c:82
+msgid "dark blue"
+msgstr "koyu mavi"
+
+#: ../components/editor/gtkhtml-color-combo.c:83
+msgid "purple #2"
+msgstr "mor #2"
+
+#: ../components/editor/gtkhtml-color-combo.c:84
+msgid "very dark gray"
+msgstr "çok koyu gri"
+
+#: ../components/editor/gtkhtml-color-combo.c:86
+msgid "dark red"
+msgstr "koyu kırmızı"
+
+#: ../components/editor/gtkhtml-color-combo.c:87
+msgid "red-orange"
+msgstr "kırmızı-turuncu"
+
+#: ../components/editor/gtkhtml-color-combo.c:88
+msgid "gold"
+msgstr "altın rengi"
+
+#: ../components/editor/gtkhtml-color-combo.c:89
+msgid "dark green"
+msgstr "koyu yeşil"
+
+#: ../components/editor/gtkhtml-color-combo.c:90
+msgid "dull blue"
+msgstr "donuk mavi"
+
+#: ../components/editor/gtkhtml-color-combo.c:91
+msgid "blue"
+msgstr "mavi"
+
+#: ../components/editor/gtkhtml-color-combo.c:92
+msgid "dull purple"
+msgstr "donuk mor"
+
+#: ../components/editor/gtkhtml-color-combo.c:93
+msgid "dark grey"
+msgstr "koyu gri"
+
+#: ../components/editor/gtkhtml-color-combo.c:95
+msgid "red"
+msgstr "kırmızı"
+
+#: ../components/editor/gtkhtml-color-combo.c:96
+msgid "orange"
+msgstr "turuncu"
+
+#: ../components/editor/gtkhtml-color-combo.c:97
+msgid "lime"
+msgstr "sarımsı yeşil"
+
+#: ../components/editor/gtkhtml-color-combo.c:98
+msgid "dull green"
+msgstr "donuk yeşil"
+
+#: ../components/editor/gtkhtml-color-combo.c:99
+msgid "dull blue #2"
+msgstr "donuk mavi #2"
+
+#: ../components/editor/gtkhtml-color-combo.c:100
+msgid "sky blue #2"
+msgstr "gökyüzü mavisi #2"
+
+#: ../components/editor/gtkhtml-color-combo.c:101
+msgid "purple"
+msgstr "mor"
+
+#: ../components/editor/gtkhtml-color-combo.c:102
+msgid "gray"
+msgstr "gri"
+
+#: ../components/editor/gtkhtml-color-combo.c:104
+msgid "magenta"
+msgstr "eflatun"
+
+#: ../components/editor/gtkhtml-color-combo.c:105
+msgid "bright orange"
+msgstr "parlak turuncu"
+
+#: ../components/editor/gtkhtml-color-combo.c:106
+msgid "yellow"
+msgstr "sarı"
+
+#: ../components/editor/gtkhtml-color-combo.c:107
+msgid "green"
+msgstr "yeşil"
+
+#: ../components/editor/gtkhtml-color-combo.c:108
+msgid "cyan"
+msgstr "turkuaz"
+
+#: ../components/editor/gtkhtml-color-combo.c:109
+msgid "bright blue"
+msgstr "açık mavi"
+
+#: ../components/editor/gtkhtml-color-combo.c:110
+msgid "red purple"
+msgstr "kırmızı mor"
+
+#: ../components/editor/gtkhtml-color-combo.c:111
+msgid "light grey"
+msgstr "açık gri"
+
+#: ../components/editor/gtkhtml-color-combo.c:113
+msgid "pink"
+msgstr "pembe"
+
+#: ../components/editor/gtkhtml-color-combo.c:114
+msgid "light orange"
+msgstr "açık turuncu"
+
+#: ../components/editor/gtkhtml-color-combo.c:115
+msgid "light yellow"
+msgstr "açık sarı"
+
+#: ../components/editor/gtkhtml-color-combo.c:116
+msgid "light green"
+msgstr "açık yeşil"
+
+#: ../components/editor/gtkhtml-color-combo.c:117
+msgid "light cyan"
+msgstr "açık turkuaz"
+
+#: ../components/editor/gtkhtml-color-combo.c:118
+msgid "light blue"
+msgstr "açık mavi"
+
+#: ../components/editor/gtkhtml-color-combo.c:119
+msgid "light purple"
+msgstr "açık mor"
+
+#: ../components/editor/gtkhtml-color-combo.c:120
+msgid "white"
+msgstr "beyaz"
+
+#: ../components/editor/gtkhtml-color-combo.c:277
+msgid "Choose Custom Color"
+msgstr "Özel Renk Seç"
+
+#: ../components/editor/gtkhtml-color-combo.c:790
+#: ../components/editor/gtkhtml-color-state.c:224
+msgid "Default"
+msgstr "Öntanımlı"
+
+#: ../components/editor/gtkhtml-color-combo.c:1022
+msgid "custom"
+msgstr "özel"
+
+#: ../components/editor/gtkhtml-color-combo.c:1030
+msgid "Custom Color..."
+msgstr "Özel Renk..."
+
+#. Translators: :-)
+#: ../components/editor/gtkhtml-face-chooser.c:34
+msgid "_Smile"
+msgstr "_Gülümse"
+
+#. Translators: :-(
+#: ../components/editor/gtkhtml-face-chooser.c:36
+msgid "S_ad"
+msgstr "_Üzgün"
+
+#. Translators: ;-)
+#: ../components/editor/gtkhtml-face-chooser.c:38
+msgid "_Wink"
+msgstr "_Göz kırp"
+
+#. Translators: :-P
+#: ../components/editor/gtkhtml-face-chooser.c:40
+msgid "Ton_gue"
+msgstr "D_il"
+
+#. Translators: :-))
+#: ../components/editor/gtkhtml-face-chooser.c:42
+msgid "Laug_h"
+msgstr "Ka_hkaha at"
+
+#. Translators: :-|
+#: ../components/editor/gtkhtml-face-chooser.c:44
+msgid "_Plain"
+msgstr "_Düz"
+
+#. Translators: :-!
+#: ../components/editor/gtkhtml-face-chooser.c:46
+msgid "Smi_rk"
+msgstr "_Gülücük"
+
+#. Translators: :"-)
+#: ../components/editor/gtkhtml-face-chooser.c:48
+msgid "_Embarrassed"
+msgstr "_Utangaç"
+
+#. Translators: :-D
+#: ../components/editor/gtkhtml-face-chooser.c:50
+msgid "_Big Smile"
+msgstr "_Büyük Gülümseme"
+
+#. Translators: :-/
+#: ../components/editor/gtkhtml-face-chooser.c:52
+msgid "Uncer_tain"
+msgstr "Karars_ız"
+
+#. Translators: :-O
+#: ../components/editor/gtkhtml-face-chooser.c:54
+msgid "S_urprise"
+msgstr "_Sürpriz"
+
+#. Translators: :-S
+#: ../components/editor/gtkhtml-face-chooser.c:56
+msgid "W_orried"
+msgstr "Endi_şeli"
+
+#. Translators: :-*
+#: ../components/editor/gtkhtml-face-chooser.c:58
+msgid "_Kiss"
+msgstr "Ö_pücük"
+
+#. Translators: X-(
+#: ../components/editor/gtkhtml-face-chooser.c:60
+msgid "A_ngry"
+msgstr "_Öfkeli"
+
+#. Translators: B-)
+#: ../components/editor/gtkhtml-face-chooser.c:62
+msgid "_Cool"
+msgstr "_Havalı"
+
+#. Translators: O:-)
+#: ../components/editor/gtkhtml-face-chooser.c:64
+msgid "Ange_l"
+msgstr "Me_lek"
+
+#. Translators: :'(
+#: ../components/editor/gtkhtml-face-chooser.c:66
+msgid "Cr_ying"
+msgstr "Ağla_yan"
+
+#. Translators: :-Q
+#: ../components/editor/gtkhtml-face-chooser.c:68
+msgid "S_ick"
+msgstr "_Hasta"
+
+#. Translators: |-)
+#: ../components/editor/gtkhtml-face-chooser.c:70
+msgid "Tire_d"
+msgstr "Yorgu_n"
+
+#. Translators: >:-)
+#: ../components/editor/gtkhtml-face-chooser.c:72
+msgid "De_vilish"
+msgstr "Ş_eytani"
+
+#. Translators: :-(|)
+#: ../components/editor/gtkhtml-face-chooser.c:74
+msgid "_Monkey"
+msgstr "_Maymun"
+
+#: ../components/editor/gtkhtml-editor-actions.c:175
+#| msgid "Insert HTML File"
+msgid "Failed to insert HTML file."
+msgstr "HTML dosyasına ekleme başarısız oldu."
+
+#: ../components/editor/gtkhtml-editor-actions.c:212
+#| msgid "Insert Text File"
+msgid "Failed to insert text file."
+msgstr "Metin dosyasına ekleme başarısız oldu."
+
+#: ../components/editor/gtkhtml-editor-actions.c:512
+msgid "No match found"
+msgstr "Eşleşme bulunamadı"
+
+#: ../components/editor/gtkhtml-editor-actions.c:605
+msgid "Insert HTML File"
+msgstr "HTML Dosyası Ekle"
+
+#: ../components/editor/gtkhtml-editor-actions.c:628
+#: ../components/editor/gtkhtml-editor-actions.c:1558
+msgid "Insert Image"
+msgstr "Resim Ekle"
+
+#: ../components/editor/gtkhtml-editor-actions.c:691
+msgid "Insert Text File"
+msgstr "Metin Dosyası Ekle"
+
+#. Replace Button
+#: ../components/editor/gtkhtml-editor-actions.c:1193
+#: ../components/editor/gtkhtml-spell-dialog.c:516
+msgid "_Replace"
+msgstr "_Değiştir"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1200
+msgid "Replace _All"
+msgstr "_Hepsini Değiştir"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1214
+msgid "_Next"
+msgstr "_Sonraki"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1221
+msgid "_Copy"
+msgstr "_Kopyala"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1223
+msgid "Copy selected text to the clipboard"
+msgstr "Seçili metni panoya kopyala"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1228
+msgid "Cu_t"
+msgstr "_Kes"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1230
+msgid "Cut selected text to the clipboard"
+msgstr "Seçili metni kes ve panoya yapıştır"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1242
+msgid "Find A_gain"
+msgstr "Y_eniden Bul"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1256
+msgid "_Increase Indent"
+msgstr "Girintiyi a_rttır"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1258
+msgid "Increase Indent"
+msgstr "Girintiyi A_rttır"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1263
+msgid "_HTML File..."
+msgstr "_HTML dosyası..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1270
+msgid "Te_xt File..."
+msgstr "_Metin Dosyası..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1277
+msgid "_Paste"
+msgstr "_Yapıştır"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1279
+msgid "Paste text from the clipboard"
+msgstr "Panodaki metni yapıştır"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1284
+msgid "Paste _Quotation"
+msgstr "_Alıntı Olarak Yapıştır"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1291
+msgid "_Redo"
+msgstr "_Tekrar yap"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1293
+#| msgid "Redo the undone action"
+msgid "Redo the last undone action"
+msgstr "Son geri alınan işlemi tekrar yap"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1298
+msgid "Select _All"
+msgstr "_Hepsini Seç"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1305
+msgid "_Find..."
+msgstr "_Bul..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1307
+msgid "Search for text"
+msgstr "Metin ara"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1312
+msgid "Re_place..."
+msgstr "_Değiştir..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1314
+msgid "Search for and replace text"
+msgstr "Metin ara ve değiştir"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1319
+msgid "Check _Spelling..."
+msgstr "Yazım _Denetimi..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1326
+#: ../components/editor/gtkhtml-editor-builder.ui.h:91
+msgid "_Test URL..."
+msgstr "_URI Sına..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1333
+msgid "_Undo"
+msgstr "_Geri al"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1335
+msgid "Undo the last action"
+msgstr "Son değişikliği geri al"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1340
+msgid "_Decrease Indent"
+msgstr "Girintiyi A_zalt"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1342
+msgid "Decrease Indent"
+msgstr "Girintiyi A_zalt"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1347
+msgid "_Wrap Lines"
+msgstr "_Metin Sarmala"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1356
+msgid "_Edit"
+msgstr "_Düzenle"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1363
+#: ../components/editor/main.c:323
+msgid "_File"
+msgstr "_Dosya"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1370
+msgid "For_mat"
+msgstr "_Biçim"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1377
+msgid "_Paragraph Style"
+msgstr "_Paragraf Biçemi"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1384
+msgid "_Insert"
+msgstr "_Araya ekle"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1391
+msgid "_Alignment"
+msgstr "_Hizalama"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1398
+msgid "Current _Languages"
+msgstr "Geçerli _Diller"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1405
+#: ../components/editor/main.c:354
+msgid "_View"
+msgstr "_Görünüm"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1415
+msgid "_Center"
+msgstr "_Ortala"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1417
+msgid "Center Alignment"
+msgstr "Ortaya Hizalama"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1422
+msgid "_Left"
+msgstr "S_ol"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1424
+msgid "Left Alignment"
+msgstr "Sola Hizalama"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1429
+msgid "_Right"
+msgstr "S_ağ"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1431
+msgid "Right Alignment"
+msgstr "Sağa Hizalama"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1439
+msgid "_HTML"
+msgstr "_HTML"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1441
+msgid "HTML editing mode"
+msgstr "HTML düzenleme kipi"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1446
+msgid "Plain _Text"
+msgstr "_Düz Metin"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1448
+msgid "Plain text editing mode"
+msgstr "Düz metin düzenleme kipi"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1456
+msgid "_Normal"
+msgstr "_Normal"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1463
+msgid "Header _1"
+msgstr "Başlık _1"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1470
+msgid "Header _2"
+msgstr "Başlık _2"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1477
+msgid "Header _3"
+msgstr "Başlık _3"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1484
+msgid "Header _4"
+msgstr "Başlık _4"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1491
+msgid "Header _5"
+msgstr "Başlık _5"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1498
+msgid "Header _6"
+msgstr "Başlık _6"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1505
+msgid "A_ddress"
+msgstr "A_dres"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1512
+msgid "_Preformatted"
+msgstr "Ö_nbiçimlenmiş"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1519
+msgid "_Bulleted List"
+msgstr "İ_mli Liste"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1526
+msgid "_Roman Numeral List"
+msgstr "_Romen Rakamlı Liste"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1533
+msgid "Numbered _List"
+msgstr "Numaralı _Liste"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1540
+msgid "_Alphabetical List"
+msgstr "_Alfabetik Liste"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1556
+#: ../components/editor/gtkhtml-editor-actions.c:1593
+msgid "_Image..."
+msgstr "_Resim..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1563
+#: ../components/editor/gtkhtml-editor-actions.c:1600
+msgid "_Link..."
+msgstr "_Bağ..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1565
+msgid "Insert Link"
+msgstr "Bağlantı Ekle"
+
+#. Translators: 'Rule' here means a horizontal line in an HTML text
+#: ../components/editor/gtkhtml-editor-actions.c:1571
+#: ../components/editor/gtkhtml-editor-actions.c:1615
+msgid "_Rule..."
+msgstr "_Kural..."
+
+#. Translators: 'Rule' here means a horizontal line in an HTML text
+#: ../components/editor/gtkhtml-editor-actions.c:1574
+msgid "Insert Rule"
+msgstr "Kural Ekle"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1579
+#: ../components/editor/gtkhtml-editor-actions.c:1622
+msgid "_Table..."
+msgstr "_Tablo..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1581
+msgid "Insert Table"
+msgstr "Tablo Ekle"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1586
+msgid "_Cell..."
+msgstr "_Hücre..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1607
+msgid "Pa_ge..."
+msgstr "_Sayfa..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1631
+msgid "Font _Size"
+msgstr "_Yazıtipi Boyutu"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1638
+msgid "_Font Style"
+msgstr "_Yazıtipi Biçemi"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1648
+#: ../components/editor/gtkhtml-editor-builder.ui.h:24
+msgid "_Bold"
+msgstr "_Kalın"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1650
+msgid "Bold"
+msgstr "Kalın"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1656
+#: ../components/editor/gtkhtml-editor-builder.ui.h:23
+msgid "_Italic"
+msgstr "_Eğik"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1658
+msgid "Italic"
+msgstr "Eğik"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1664
+msgid "_Plain Text"
+msgstr "_Salt metin"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1666
+msgid "Plain Text"
+msgstr "Düz Metin"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1672
+#: ../components/editor/gtkhtml-editor-builder.ui.h:21
+msgid "_Strikethrough"
+msgstr "Üs_tü çizili"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1674
+msgid "Strikethrough"
+msgstr "Üstü çizili"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1680
+#: ../components/editor/gtkhtml-editor-builder.ui.h:22
+msgid "_Underline"
+msgstr "A_lt çizgili"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1682
+msgid "Underline"
+msgstr "Alt çizgili"
+
+#. Translators: This is a font size level. It is shown on a tool bar. Please keep it as short as possible.
+#: ../components/editor/gtkhtml-editor-actions.c:1692
+msgid "-2"
+msgstr "-2"
+
+#. Translators: This is a font size level. It is shown on a tool bar. Please keep it as short as possible.
+#: ../components/editor/gtkhtml-editor-actions.c:1700
+msgid "-1"
+msgstr "-1"
+
+#. Translators: This is a font size level. It is shown on a tool bar. Please keep it as short as possible.
+#: ../components/editor/gtkhtml-editor-actions.c:1708
+msgid "+0"
+msgstr "+0"
+
+#. Translators: This is a font size level. It is shown on a tool bar. Please keep it as short as possible.
+#: ../components/editor/gtkhtml-editor-actions.c:1716
+msgid "+1"
+msgstr "+1"
+
+#. Translators: This is a font size level. It is shown on a tool bar. Please keep it as short as possible.
+#: ../components/editor/gtkhtml-editor-actions.c:1724
+msgid "+2"
+msgstr "+2"
+
+#. Translators: This is a font size level. It is shown on a tool bar. Please keep it as short as possible.
+#: ../components/editor/gtkhtml-editor-actions.c:1732
+msgid "+3"
+msgstr "+3"
+
+#. Translators: This is a font size level. It is shown on a tool bar. Please keep it as short as possible.
+#: ../components/editor/gtkhtml-editor-actions.c:1740
+msgid "+4"
+msgstr "+4"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1759
+msgid "Cell Contents"
+msgstr "Hücre İçeriği"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1766
+msgid "Column"
+msgstr "Sütun"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1773
+msgid "Row"
+msgstr "Satır"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1780
+#: ../components/editor/gtkhtml-editor-actions.c:1865
+msgid "Table"
+msgstr "Tablo"
+
+#. Translators: Popup menu item caption, containing all the Delete options for a table
+#: ../components/editor/gtkhtml-editor-actions.c:1790
+msgid "Table Delete"
+msgstr "Tablo Sil"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1797
+msgid "Input Methods"
+msgstr "Girdi Yöntemleri"
+
+#. Translators: Popup menu item caption, containing all the Insert options for a table
+#: ../components/editor/gtkhtml-editor-actions.c:1805
+msgid "Table Insert"
+msgstr "Tablo Ekle"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1812
+msgid "Properties"
+msgstr "Özellikler"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1830
+msgid "Column After"
+msgstr "Sonraki Sütun"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1837
+msgid "Column Before"
+msgstr "Önceki Sütun"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1844
+msgid "Insert _Link"
+msgstr "Bağ _Ekle"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1851
+msgid "Row Above"
+msgstr "Üst Satır"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1858
+msgid "Row Below"
+msgstr "Alt Satır"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1872
+msgid "Cell..."
+msgstr "Hücre..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1879
+msgid "Image..."
+msgstr "Resim..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1886
+msgid "Link..."
+msgstr "Bağ..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1893
+msgid "Page..."
+msgstr "Sayfa..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1900
+msgid "Paragraph..."
+msgstr "Paragraf..."
+
+#. Translators: 'Rule' here means a horizontal line in an HTML text
+#: ../components/editor/gtkhtml-editor-actions.c:1908
+msgid "Rule..."
+msgstr "Kural..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1915
+msgid "Table..."
+msgstr "Tablo..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1922
+msgid "Text..."
+msgstr "Metin..."
+
+#: ../components/editor/gtkhtml-editor-actions.c:1929
+msgid "Remove Link"
+msgstr "Bağlantıyı Sil"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1946
+msgid "Add Word to Dictionary"
+msgstr "Kelimeyi Sözlüğe Ekle"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1953
+msgid "Ignore Misspelled Word"
+msgstr "Hatalı Yazılmış Sözcükleri Gözardı Et"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1960
+msgid "Add Word To"
+msgstr "Kelimeyi Ekle"
+
+#: ../components/editor/gtkhtml-editor-actions.c:1969
+msgid "More Suggestions"
+msgstr "Daha Fazla Öneri"
+
+#. Translators: %s will be replaced with the actual dictionary name,
+#. * where a user can add a word to. This is part of an "Add Word To" submenu.
+#: ../components/editor/gtkhtml-editor-actions.c:2070
+#, c-format
+msgid "%s Dictionary"
+msgstr "%s Sözlüğü"
+
+#: ../components/editor/gtkhtml-editor-actions.c:2138
+msgid "_Emoticon"
+msgstr "_Surat"
+
+#: ../components/editor/gtkhtml-editor-actions.c:2139
+#| msgid "Insert Link"
+msgid "Insert Emoticon"
+msgstr "Yüz İfadesi Simgesi Ekle"
+
+#: ../components/editor/gtkhtml-editor-actions.c:2201
+msgid "_Find"
+msgstr "_Bul"
+
+#: ../components/editor/gtkhtml-editor-actions.c:2204
+msgid "Re_place"
+msgstr "_Değiştir"
+
+#: ../components/editor/gtkhtml-editor-actions.c:2207
+msgid "_Image"
+msgstr "_Resim"
+
+#: ../components/editor/gtkhtml-editor-actions.c:2210
+msgid "_Link"
+msgstr "_Bağlantı"
+
+#. Translators: 'Rule' here means a horizontal line in an HTML text
+#: ../components/editor/gtkhtml-editor-actions.c:2214
+msgid "_Rule"
+msgstr "_Kural"
+
+#: ../components/editor/gtkhtml-editor-actions.c:2217
+#: ../components/editor/gtkhtml-editor-builder.ui.h:72
+msgid "_Table"
+msgstr "_Tablo"
+
+#: ../components/editor/gtkhtml-editor-private.c:277
+msgid "Paragraph Style"
+msgstr "Paragraf Biçemi"
+
+#: ../components/editor/gtkhtml-editor-private.c:291
+msgid "Editing Mode"
+msgstr "Düzenleme Kipi"
+
+#: ../components/editor/gtkhtml-editor-private.c:303
+msgid "Font Color"
+msgstr "Yazıtipi Rengi"
+
+#: ../components/editor/gtkhtml-editor-private.c:313
+msgid "Font Size"
+msgstr "Yazıtipi Boyutu"
+
+#: ../components/editor/gtkhtml-editor-private.c:339
+msgid "Automatic"
+msgstr "Otomatik"
+
+#: ../components/editor/gtkhtml-editor-private.c:547
+msgid "Could not open the link."
+msgstr "Bağlantı açılamadı."
+
+#: ../components/editor/gtkhtml-editor.c:878
+#| msgid "Page Properties"
+msgid "Changed property"
+msgstr "Değiştirilen Özellik"
+
+#: ../components/editor/gtkhtml-editor.c:879
+#| msgid "Whether the html can be edited"
+msgid "Whether editor changed"
+msgstr "Düzenleyici değiştirilmiş olsun"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:1
+msgid "px"
+msgstr "px"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:3
+#, no-c-format
+msgid "%"
+msgstr "%"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:4
+msgid "follow"
+msgstr "takip et"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:5
+msgid "Top"
+msgstr "Üst"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:6
+msgid "Middle"
+msgstr "Orta"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:7
+msgid "Bottom"
+msgstr "Alt"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:8
+msgid "Left"
+msgstr "Sol"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:9
+msgid "Center"
+msgstr "Merkez"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:10
+msgid "Right"
+msgstr "Sağ"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:11
+msgid "None"
+msgstr "Yok"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:12
+#| msgid "Perforated paper"
+msgid "Perforated Paper"
+msgstr "Delikli Kağıt"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:13
+msgid "Blue Ink"
+msgstr "Mavi Mürekkep"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:14
+msgid "Paper"
+msgstr "Kağıt"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:15
+msgid "Ribbon"
+msgstr "Kurdele"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:16
+msgid "Midnight"
+msgstr "Gece Yarısı"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:17
+msgid "Confidential"
+msgstr "Gizli"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:18
+msgid "Draft"
+msgstr "Taslak"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:19
+msgid "Graph Paper"
+msgstr "Grafik Kağıdı"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:20
+msgid "Text Properties"
+msgstr "Metin Özellikleri"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:25
+msgid "Si_ze:"
+msgstr "B_oyut:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:26
+msgid "_Color:"
+msgstr "_Renk:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:27
+msgid "Paragraph Properties"
+msgstr "Paragraf Özellikleri"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:28
+msgid "General"
+msgstr "Genel"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:29
+msgid "_Style:"
+msgstr "_Biçem:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:30
+msgid "Alignment"
+msgstr "Hizalama"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:31
+msgid "Find"
+msgstr "Bul"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:32
+msgid "Search _backwards"
+msgstr "_Geriye doğru ara"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:33
+msgid "Case _sensitive"
+msgstr "Büyük-küçük harf _duyarlı"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:34
+msgid "_Regular expression"
+msgstr "_Düzenli ifade"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:35
+msgid "Replace"
+msgstr "Değiştir"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:36
+msgid "_With:"
+msgstr "_Beraber:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:37
+msgid "R_eplace:"
+msgstr "D_eğiştir:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:38
+msgid "Replace Confirmation"
+msgstr "Değiştirme Onayı"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:39
+msgid "Link Properties"
+msgstr "Bağ Özellikleri"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:40
+msgid "_URL:"
+msgstr "_URL:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:41
+msgid "_Description:"
+msgstr "_Açıklama:"
+
+#. Translators: Caption of a window. 'Rule' here means a horizontal line in an HTML text.
+#: ../components/editor/gtkhtml-editor-builder.ui.h:43
+msgid "Rule Properties"
+msgstr "Kural Özellikleri"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:44
+msgid "Size"
+msgstr "Boyut"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:45
+msgid "_Width:"
+msgstr "_Genişlik:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:46
+msgid "_Size:"
+msgstr "_Boyut:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:47
+msgid "Style"
+msgstr "Biçem"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:48
+msgid "_Alignment:"
+msgstr "_Hizalama:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:49
+msgid "S_haded"
+msgstr "_Gölgeli"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:50
+msgid "Table Properties"
+msgstr "Tablo Özellikleri"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:51
+msgid "_Rows:"
+msgstr "_Satırlar:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:52
+msgid "C_olumns:"
+msgstr "_Sütunlar:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:53
+msgid "Layout"
+msgstr "Düzen"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:54
+msgid "_Spacing:"
+msgstr "_Boşluk:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:55
+msgid "_Padding:"
+msgstr "_Boşluk Doldurma:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:56
+msgid "_Border:"
+msgstr "_Kenarlık:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:57
+msgid "Background"
+msgstr "Arkaplan"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:58
+msgid "Co_lor:"
+msgstr "_Renk:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:59
+msgid "_Image:"
+msgstr "_Resim:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:60
+msgid "Page Properties"
+msgstr "Sayfa Özellikleri"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:61
+msgid "Colors"
+msgstr "Renkler"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:62
+msgid "_Text:"
+msgstr "_Metin:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:63
+msgid "_Link:"
+msgstr "_Bağlantı:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:64
+msgid "_Background:"
+msgstr "_Arkaplan:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:65
+msgid "Background Image"
+msgstr "Arkaplan Resmi"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:66
+msgid "T_emplate:"
+msgstr "Ş_ablon:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:67
+msgid "C_ustom:"
+msgstr "Ö_zel:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:68
+msgid "Cell Properties"
+msgstr "Hücre Özellikleri"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:69
+msgid "Scope"
+msgstr "Kapsam"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:70
+msgid "Col_umn"
+msgstr "Süt_un"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:71
+msgid "_Row"
+msgstr "_Satır"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:73
+msgid "C_ell"
+msgstr "H_ücre"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:74
+msgid "Alignment & Behavior"
+msgstr "Hizalama ve Davranış"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:75
+msgid "_Wrap Text"
+msgstr "Me_tin Sarma"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:76
+msgid "Hea_der Style"
+msgstr "_Başlık Biçemi"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:77
+msgid "_Vertical:"
+msgstr "_Düşey:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:78
+msgid "_Horizontal:"
+msgstr "_Yatay:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:79
+msgid "Column Span:"
+msgstr "Sütun Mesafesi:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:80
+msgid "Row Span:"
+msgstr "Satır Mesafesi:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:81
+msgid "Width:"
+msgstr "Genişlik:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:82
+msgid "Select An Image"
+msgstr "Bir Resim Seçin"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:83
+msgid "I_mage:"
+msgstr "_Resim:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:84
+msgid "C_olor:"
+msgstr "_Renk:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:85
+msgid "Image Properties"
+msgstr "Resim Özellikleri"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:86
+msgid "_Source:"
+msgstr "_Kaynak:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:87
+msgid "_Height:"
+msgstr "_Yükseklik:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:88
+msgid "_X-Padding:"
+msgstr "_X-Doldurma:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:89
+msgid "_Y-Padding:"
+msgstr "_Y-Doldurma:"
+
+#: ../components/editor/gtkhtml-editor-builder.ui.h:90
+msgid "Link"
+msgstr "Bağlantı"
+
+#: ../components/editor/gtkhtml-spell-dialog.c:113
+#, c-format
+msgid "Suggestions for \"%s\""
+msgstr "\"%s\" için tavsiyeler"
+
+#: ../components/editor/gtkhtml-spell-dialog.c:443
+msgid "Spell Checker"
+msgstr "İmla Denetleyici"
+
+#. Replace All Button
+#: ../components/editor/gtkhtml-spell-dialog.c:530
+msgid "R_eplace All"
+msgstr "_Hepsini Değiştir"
+
+#. Ignore Button
+#: ../components/editor/gtkhtml-spell-dialog.c:544
+msgid "_Ignore"
+msgstr "_Yok Say"
+
+#. Skip Button
+#: ../components/editor/gtkhtml-spell-dialog.c:558
+msgid "_Skip"
+msgstr "_Geç"
+
+#. Back Button
+#: ../components/editor/gtkhtml-spell-dialog.c:571
+msgid "_Back"
+msgstr "_Geri"
+
+#. Dictionary Label
+#: ../components/editor/gtkhtml-spell-dialog.c:584
+msgid "Dictionary"
+msgstr "Sözlük"
+
+#. Add Word Button
+#: ../components/editor/gtkhtml-spell-dialog.c:613
+msgid "_Add Word"
+msgstr "_Kelime Ekle"
+
+#. Translators: %s is the language ISO code.
+#: ../components/editor/gtkhtml-spell-language.c:255
+#, c-format
+msgctxt "language"
+msgid "Unknown (%s)"
+msgstr "Bilinmeyen (%s)"
+
+#. Translators: The first %s is the language name, and the
+#. * second is the country name. Example: "French (France)"
+#: ../components/editor/gtkhtml-spell-language.c:270
+#: ../components/editor/gtkhtml-spell-language.c:275
+#, c-format
+msgctxt "language"
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+#. Translators: This refers to the default language used
+#. * by the spell checker.
+#: ../components/editor/gtkhtml-spell-language.c:460
+msgctxt "language"
+msgid "Default"
+msgstr "Öntanımlı"
+
+#: ../components/editor/main.c:93
+msgid "Save As"
+msgstr "Farklı Kaydet"
+
+#: ../components/editor/main.c:109
+msgid "Untitled document"
+msgstr "İsimsiz belge"
+
+#: ../components/editor/main.c:267
+msgid "HTML Output"
+msgstr "HTML Çıktı"
+
+#: ../components/editor/main.c:274
+msgid "HTML Source"
+msgstr "HTML Kaynak"
+
+#: ../components/editor/main.c:281
+msgid "Plain Source"
+msgstr "Düz Metin Kaynağı"
+
+#: ../components/editor/main.c:288
+msgid "_Print..."
+msgstr "_Yazdır..."
+
+#: ../components/editor/main.c:295
+msgid "Print Pre_view"
+msgstr "Baskı Ö_nizleme"
+
+#: ../components/editor/main.c:302
+msgid "_Quit"
+msgstr "Çı_k"
+
+#: ../components/editor/main.c:309
+msgid "_Save"
+msgstr "_Kaydet"
+
+#: ../components/editor/main.c:316
+msgid "Save _As..."
+msgstr "_Farklı Kaydet..."
+
+#: ../components/editor/main.c:333
+msgid "HTML _Output"
+msgstr "HTML Çı_ktı"
+
+#: ../components/editor/main.c:340
+msgid "_HTML Source"
+msgstr "_HTML Kaynağı"
+
+#: ../components/editor/main.c:347
+msgid "_Plain Source"
+msgstr "_Düz Metin Kaynağı"
+
+#: ../gtkhtml/htmlbutton.c:140
+msgid "Submit Query"
+msgstr "Sorguyu Gönder"
+
+#: ../gtkhtml/htmlbutton.c:143
+msgid "Reset"
+msgstr "Sıfırla"
+
+#. TODO2 dialog instead of warning
+#: ../gtkhtml/htmlengine-print.c:231 ../gtkhtml/htmlengine-print.c:310
+msgid "Cannot allocate default font for printing"
+msgstr "Yazdırma için öntanımlı yazıtipi ayrılamıyor"
+
+#: ../gtkhtml/test.c:374
+msgid "GtkHTML Test"
+msgstr "GtkHTML Test"
+
+#~ msgid "Current color"
+#~ msgstr "Mevcut renk"
+
+#~ msgid "The currently selected color"
+#~ msgstr "Şu anda seçili renk"
+
+#~ msgid "Default color"
+#~ msgstr "Öntanımlı renk"
+
+#~ msgid "The color associated with the default button"
+#~ msgstr "Öntanımlı düğme ile ilişkili renk"
+
+#~ msgid "Default label"
+#~ msgstr "Öntanımlı etiket"
+
+#~ msgid "The label for the default button"
+#~ msgstr "Öntanımlı düğme için etiket"
+
+#~ msgid "Color palette"
+#~ msgstr "Renk paleti"
+
+#~ msgid "Custom color palette"
+#~ msgstr "Özel renk paleti"
+
+#~ msgid "Popup shown"
+#~ msgstr "Açılır pencere gösterilir"
+
+#~ msgid "Whether the combo's dropdown is shown"
+#~ msgstr "Çoklu kutunun açılır kısmının görüntülenmesi"
+
+#~ msgid "Color state"
+#~ msgstr "Renk durumu"
+
+#~ msgid "State of the color combo"
+#~ msgstr "Renk çoklu kutusunun durumu"
+
+#~ msgid "The current color"
+#~ msgstr "Öntanımlı renk"
+
+#~ msgid "The default color"
+#~ msgstr "Öntanımlı renk"
+
+#~ msgid "Description of the default color"
+#~ msgstr "Öntanımlı rengin tanımı"
+
+#~ msgid "Color"
+#~ msgstr "Renk"
+
+#~ msgid "Frame Shadow"
+#~ msgstr "Çerçeve Gölgesi"
+
+#~ msgid "Appearance of the frame border"
+#~ msgstr "Çerçeve kenarlığının görünümü"
+
+#~ msgid "Action"
+#~ msgstr "Eylem"
+
+#~ msgid "A GtkRadioAction"
+#~ msgstr "Bir GtkRadioAction"
+
+#~ msgid "_Indifferent"
+#~ msgstr "_Kaygısız"
+
+#~ msgid "_Tongue"
+#~ msgstr "D_il"
+
+#~ msgid "_Frown"
+#~ msgstr "_Üzgün"
+
+#~ msgid "Sur_prised"
+#~ msgstr "Ş_aşırmış"
+
+#~ msgid "_Undecided"
+#~ msgstr "_Belirlenmemiş"
+
+#~ msgid "Current Folder"
+#~ msgstr "Mevcut Klasör"
+
+#~ msgid "The initial folder for file chooser dialogs"
+#~ msgstr "Dosya seçici pencereleri için başlangıç klasörü"
+
+#~ msgid "Filename"
+#~ msgstr "Dosya ismi"
+
+#~ msgid "The filename to use when saving"
+#~ msgstr "Kaydederken kullanılacak dosya ismi"
+
+#~ msgid "HTML Mode"
+#~ msgstr "HTML Kipi"
+
+#~ msgid "Edit HTML or plain text"
+#~ msgstr "HTML ya da düz metin düzenle"
+
+#~ msgid "Inline Spelling"
+#~ msgstr "Satır Arası İmla"
+
+#~ msgid "Check your spelling as you type"
+#~ msgstr "Yazarken imla kontrolü yap"
+
+#~ msgid "Magic Links"
+#~ msgstr "Sihirli Bağlar"
+
+#~ msgid "Make URIs clickable as you type"
+#~ msgstr "Yazarken URI'leri tıklanabilir yap"
+
+#~ msgid "Magic Smileys"
+#~ msgstr "Sihirli Gülümsemeler"
+
+#~ msgid "Convert emoticons to images as you type"
+#~ msgstr "Yazarken duygu simgelerini resimlere çevir"
+
+#~ msgid "<b>Alignment</b>"
+#~ msgstr "<b>Hizalama</b>"
+
+#~ msgid "<b>Background Image</b>"
+#~ msgstr "<b>Arkaplan Resmi</b>"
+
+#~ msgid "<b>Background</b>"
+#~ msgstr "<b>Arkaplan</b>"
+
+#~ msgid "<b>Colors</b>"
+#~ msgstr "<b>Renkler</b>"
+
+#~ msgid "<b>General</b>"
+#~ msgstr "<b>Genel</b>"
+
+#~ msgid "<b>Link</b>"
+#~ msgstr "<b>Bağ</b>"
+
+#~ msgid "<b>Scope</b>"
+#~ msgstr "<b>Kapsam</b>"
+
+#~ msgid "<b>Size</b>"
+#~ msgstr "<b>Boyut</b>"
+
+#~ msgid "<b>Style</b>"
+#~ msgstr "<b>Biçem</b>"
+
+#~ msgid ""
+#~ "Left\n"
+#~ "Center\n"
+#~ "Right"
+#~ msgstr ""
+#~ "Sol\n"
+#~ "Orta\n"
+#~ "Sağ"
+
+#~ msgid ""
+#~ "None\n"
+#~ "Perforated Paper\n"
+#~ "Blue Ink\n"
+#~ "Paper\n"
+#~ "Ribbon\n"
+#~ "Midnight\n"
+#~ "Confidential\n"
+#~ "Draft\n"
+#~ "Graph Paper"
+#~ msgstr ""
+#~ "Hiçbiri\n"
+#~ "Delikli Kağıt\n"
+#~ "Mavi Boya\n"
+#~ "Kağıt\n"
+#~ "Kurdale\n"
+#~ "Gece Yarısı\n"
+#~ "Gizli\n"
+#~ "Taslak\n"
+#~ "Grafik Kağıdı"
+
+#~ msgid ""
+#~ "Top\n"
+#~ "Middle\n"
+#~ "Bottom"
+#~ msgstr ""
+#~ "Üst\n"
+#~ "Orta\n"
+#~ "Alt"
+
+#~ msgid ""
+#~ "px\n"
+#~ "%"
+#~ msgstr ""
+#~ "px\n"
+#~ "%"
+
+#~ msgid "Language"
+#~ msgstr "Dil"
+
+#~ msgid "The language used by the spell checker"
+#~ msgstr "İmla denetleyici tarafından kullanılan dil"
+
+#~ msgid "Misspelled Word"
+#~ msgstr "Hatalı Yazılmış Sözcük"
+
+#~ msgid "The current misspelled word"
+#~ msgstr "Mevcut hatalı yazılmış sözcük"
+
+#~ msgid "Alphabetical List"
+#~ msgstr "Alfabetik Liste"
+
+#~ msgid "Bulleted List"
+#~ msgstr "İmli Liste"
+
+#~ msgid "Center justifies the paragraphs"
+#~ msgstr "Paragrafı merkezde ortalar"
+
+#~ msgid "Check spelling of the document"
+#~ msgstr "Belgenin içeriğindeki sözdizimi hatalarını bulur"
+
+#~ msgid "Copy"
+#~ msgstr "Kopyala"
+
+#~ msgid "Copy the selection"
+#~ msgstr "Panoya kopyala"
+
+#~ msgid "Cut"
+#~ msgstr "Kes"
+
+#~ msgid "Cut the selection"
+#~ msgstr "Seçimi kes"
+
+#~ msgid "Emoti_con"
+#~ msgstr "_Suratlar"
+
+#~ msgid "Find _Again"
+#~ msgstr "Y_eniden Bul"
+
+#~ msgid "Find again"
+#~ msgstr "Yeniden bul"
+
+#~ msgid "Find and Replace"
+#~ msgstr "Bul ve Değiştir"
+
+#~ msgid "Find and replace"
+#~ msgstr "Bul ve değiştir"
+
+#~ msgid "I_nsert"
+#~ msgstr "_Ekle"
+
+#~ msgid "Image"
+#~ msgstr "Resim"
+
+#~ msgid "Insert Crying emoticon into document..."
+#~ msgstr "Belgeye Ağlayan surat ekle..."
+
+#~ msgid "Insert Frown emoticon into document..."
+#~ msgstr "Belgeye Somurtan surat ekle..."
+
+#~ msgid "Insert HTML file into document..."
+#~ msgstr "Belgeye HTML dosyası ekle..."
+
+#~ msgid "Insert HTML link into document..."
+#~ msgstr "Belgeye HTML bağlantısı ekle..."
+
+#~ msgid "Insert HTML template into document..."
+#~ msgstr "Belgeye HTML şablonu ekle..."
+
+#~ msgid "Insert Indifferent emoticon into document..."
+#~ msgstr "Belgeye Kaygısız surat ekle..."
+
+#~ msgid "Insert Laughing emoticon into document..."
+#~ msgstr "Belgeye Kahkaha Atan surat ekle..."
+
+#~ msgid "Insert Oh no! emoticon into document..."
+#~ msgstr "Belgeye Hayır! suratı ekle..."
+
+#~ msgid "Insert Sick emoticon into document..."
+#~ msgstr "Belgeye Hasta surat ekle..."
+
+#~ msgid "Insert Smile emoticon into document..."
+#~ msgstr "Belgeye Gülen surat ekle..."
+
+#~ msgid "Insert Surprised emoticon into document..."
+#~ msgstr "Belgeye Şaşırmış surat ekle..."
+
+#~ msgid "Insert Tongue emoticon into document..."
+#~ msgstr "Belgeye Dil Çıkaran surat ekle..."
+
+#~ msgid "Insert Undecided emoticon into document..."
+#~ msgstr "Belgeye Kararsız surat ekle..."
+
+#~ msgid "Insert Wink emoticon into document..."
+#~ msgstr "Belgeye Göz Kırpan surat ekle..."
+
+#~ msgid "Insert image"
+#~ msgstr "Resim ekle"
+
+#~ msgid "Insert image into document..."
+#~ msgstr "Belgeye resim ekle..."
+
+#~ msgid "Insert link"
+#~ msgstr "Bağlantı ekle"
+
+#~ msgid "Insert rule"
+#~ msgstr "Kural ekle"
+
+#~ msgid "Insert rule into document..."
+#~ msgstr "Belgeye kural ekle..."
+
+#~ msgid "Insert table"
+#~ msgstr "Tablo ekle"
+
+#~ msgid "Insert table into document..."
+#~ msgstr "Belgeye tablo ekle..."
+
+#~ msgid "Insert text file into document..."
+#~ msgstr "Belgeye metin dosyası ekle..."
+
+#~ msgid "Left justifies the paragraphs"
+#~ msgstr "Paragrafı sol kenara yaslar"
+
+#~ msgid "Make the current Paragraph style Normal"
+#~ msgstr "Paragraf biçemini Normal yapar"
+
+#~ msgid "Make the current Paragraph style Preformat"
+#~ msgstr "Mevcut Paragraf biçemini Önbiçimlemeli yapar"
+
+#~ msgid "Make the current paragraph a bulleted list"
+#~ msgstr "Paragrafı imli liste haline getirir"
+
+#~ msgid "Make the current paragraph a list with roman numerals"
+#~ msgstr "Paragrafı romen rakamlı liste haline getirir"
+
+#~ msgid "Make the current paragraph a numbered list"
+#~ msgstr "Paragrafı numaralı liste haline getirir"
+
+#~ msgid "Make the current paragraph an H1 header"
+#~ msgstr "Paragrafı H1 başlığı yapar"
+
+#~ msgid "Make the current paragraph an H2 header"
+#~ msgstr "Paragrafı H2 başlığı yapar"
+
+#~ msgid "Make the current paragraph an H3 header"
+#~ msgstr "Paragrafı H3 başlığı yapar"
+
+#~ msgid "Make the current paragraph an H4 header"
+#~ msgstr "Paragrafı H4 başlığı yapar"
+
+#~ msgid "Make the current paragraph an H5 header"
+#~ msgstr "Paragrafı H5 başlığı yapar"
+
+#~ msgid "Make the current paragraph an H6 header"
+#~ msgstr "Paragrafı H6 başlığı yapar"
+
+#~ msgid "Make the current paragraph an address"
+#~ msgstr "Paragrafı adres yapar"
+
+#~ msgid "Make the current paragraph an alphabetical list"
+#~ msgstr "Paragrafı alfabetik liste haline getirir"
+
+#~ msgid "Normal"
+#~ msgstr "Normal"
+
+#~ msgid "Numbered List"
+#~ msgstr "Numaralı Liste"
+
+#~ msgid "Oh _No!"
+#~ msgstr "_Hayır!"
+
+#~ msgid "Paste"
+#~ msgstr "Yapıştır"
+
+#~ msgid "Paste the clipboard"
+#~ msgstr "Pano içeriğini yapıştır"
+
+#~ msgid "Paste the clipboard as a quotation"
+#~ msgstr "Pano içeriğini alıntı olarak yapıştır"
+
+#~ msgid "Preformat"
+#~ msgstr "Önbiçim"
+
+#~ msgid "Redo"
+#~ msgstr "Yeniden yap"
+
+#~ msgid "Redo previously undone change"
+#~ msgstr "Son geri alınan değişiklikleri yeniden yap"
+
+#~ msgid "Right justifies the paragraphs"
+#~ msgstr "Paragrafı sağa yaslar"
+
+#~ msgid "Roman Numeral List"
+#~ msgstr "Romen Rakamlı Liste"
+
+#~ msgid "Rule"
+#~ msgstr "Kural"
+
+#~ msgid "Select the entire contents of the document"
+#~ msgstr "Belgenin tüm içeriğini seç"
+
+#~ msgid "Strikeout"
+#~ msgstr "Üstü çizili"
+
+#~ msgid "Subscript"
+#~ msgstr "Altkarakter"
+
+#~ msgid "Superscript"
+#~ msgstr "Üstkarakter"
+
+#~ msgid "Te_mplate..."
+#~ msgstr "Şa_blon..."
+
+#~ msgid "Typewriter"
+#~ msgstr "Daktilo"
+
+#~ msgid "Undo"
+#~ msgstr "Geri al"
+
+#~ msgid "Undo previous changes"
+#~ msgstr "Değişiklikleri geri al"
+
+#~ msgid "_Font Size"
+#~ msgstr "_Yazıtipi Boyutu"
+
+#~ msgid "_Heading"
+#~ msgstr "_Başlık"
+
+#~ msgid "_Page..."
+#~ msgstr "_Sayfa..."
+
+#~ msgid "_Paragraph..."
+#~ msgstr "_Paragraf..."
+
+#~ msgid "_Replace..."
+#~ msgstr "_Değiştir..."
+
+#~ msgid "_Style"
+#~ msgstr "_Biçem"
+
+#~ msgid "_Text..."
+#~ msgstr "_Metin..."
+
+#~ msgid "GNOME HTML Editor"
+#~ msgstr "GNOME HTML Düzenleyici"
+
+#~ msgid "GNOME HTML Editor Control"
+#~ msgstr "GNOME HTML Düzenleyici Denetimi"
+
+#~ msgid "GNOME HTML Editor Factory"
+#~ msgstr "GNOME HTML Düzenleyici Üreticisi"
+
+#~ msgid "Background Image File Path"
+#~ msgstr "Arkaplan Resmi Dosya Yolu"
+
+#~ msgid "Template"
+#~ msgstr "Şablon"
+
+#~ msgid "Transparent"
+#~ msgstr "Şeffaf"
+
+#~ msgid "Text"
+#~ msgstr "Metin"
+
+#~ msgid "Paragraph"
+#~ msgstr "Paragraf"
+
+#~ msgid "Page"
+#~ msgstr "Sayfa"
+
+#~ msgid "color preview"
+#~ msgstr "renk önizleme"
+
+#~ msgid "Custom Color:"
+#~ msgstr "Özel Renk:"
+
+#~ msgid "purplish blue"
+#~ msgstr "morumsu mavi"
+
+#~ msgid "dark purple"
+#~ msgstr "koyu mor"
+
+#~ msgid "sky blue"
+#~ msgstr "gökyüzü mavisi"
+
+#~ msgid "Popup"
+#~ msgstr "Açılır Pencere"
+
+#~ msgid "GtkHTML Editor Control"
+#~ msgstr "GtkHTML Düzenleyici Denetimi"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid "*"
+#~ msgstr "*"
+
+#~ msgid ""
+#~ "-2\n"
+#~ "-1\n"
+#~ "Standard\n"
+#~ "+1\n"
+#~ "+2\n"
+#~ "+3\n"
+#~ "+4"
+#~ msgstr ""
+#~ "-2\n"
+#~ "-1\n"
+#~ "Standart\n"
+#~ "+1\n"
+#~ "+2\n"
+#~ "+3\n"
+#~ "+4"
+
+#~ msgid "<b>Alignment &amp; Behaviour</b>"
+#~ msgstr "<b>Hizalama ve Davranış</b>"
+
+#~ msgid "<span weight=\"bold\">General</span>"
+#~ msgstr "<span weight=\"bold\">Genel</span>"
+
+#~ msgid "<span weight=\"bold\">Layout</span>"
+#~ msgstr "<span weight=\"bold\">Düzen</span>"
+
+#~ msgid "<span weight=\"bold\">Link</span>"
+#~ msgstr "<span weight=\"bold\">Bağlantı</span>"
+
+#~ msgid "<span weight=\"bold\">Size</span>"
+#~ msgstr "<span weight=\"bold\">Boyut</span>"
+
+#~ msgid "<span weight=\"bold\">Style</span>"
+#~ msgstr "<span weight=\"bold\">Biçem</span>"
+
+#~ msgid "<span weight=\"bold\">Template</span>"
+#~ msgstr "<span weight=\"bold\">Şablon</span>"
+
+#~ msgid "Alignment:"
+#~ msgstr "Hizalama:"
+
+#~ msgid "Cell"
+#~ msgstr "Hücre"
+
+#~ msgid "Colu_mns:"
+#~ msgstr "_Sütunlar:"
+
+#~ msgid "Column span:"
+#~ msgstr "Sütun mesafesi:"
+
+#~ msgid "Enable"
+#~ msgstr "Etkinleştir"
+
+#~ msgid "Hea_der style"
+#~ msgstr "_Başlık biçemi"
+
+#~ msgid "Horizontal alignment:"
+#~ msgstr "Yatay hizalama:"
+
+#~ msgid "Horizontal:"
+#~ msgstr "Yatay:"
+
+#~ msgid ""
+#~ "Left\n"
+#~ "Center\n"
+#~ "Right\n"
+#~ "None"
+#~ msgstr ""
+#~ "Sol\n"
+#~ "Orta\n"
+#~ "Sağ\n"
+#~ "Hiçbiri"
+
+#~ msgid "Link properties"
+#~ msgstr "Bağlantı özellikleri"
+
+#~ msgid "Row span:"
+#~ msgstr "Satır mesafesi:"
+
+#~ msgid "Shade"
+#~ msgstr "Gölge"
+
+#~ msgid "Vertical:"
+#~ msgstr "Düşey:"
+
+#~ msgid "xxxxxxxxxxxxxx"
+#~ msgstr "xxxxxxxxxxxxxx"
+
+#~ msgid "URL:"
+#~ msgstr "URL:"
+
+#~ msgid "Description:"
+#~ msgstr "Açıklama:"
+
+#~ msgid "Insert"
+#~ msgstr "Ekle"
+
+#~ msgid "Error loading file '%s': %s"
+#~ msgstr "'%s' dosyasını yüklerken hata oluştu: %s"
+
+#~ msgid "Format"
+#~ msgstr "_Biçim"
+
+#~ msgid "Roman List"
+#~ msgstr "Romen Rakamlı Liste"
+
+#~ msgid "Header 1"
+#~ msgstr "Başlık 1"
+
+#~ msgid "Header 2"
+#~ msgstr "Başlık 2"
+
+#~ msgid "Header 3"
+#~ msgstr "Başlık 3"
+
+#~ msgid "Header 4"
+#~ msgstr "Başlık 4"
+
+#~ msgid "Header 5"
+#~ msgstr "Başlık 5"
+
+#~ msgid "Header 6"
+#~ msgstr "Başlık 6"
+
+#~ msgid "Address"
+#~ msgstr "Adres"
+
+#~ msgid "Text Style..."
+#~ msgstr "Metin Biçemi..."
+
+#~ msgid "Paragraph Style..."
+#~ msgstr "Paragraf Biçemi..."
+
+#~ msgid "Link Style..."
+#~ msgstr "Bağlantı Biçemi..."
+
+#~ msgid "Rule Style..."
+#~ msgstr "Kural Biçemi..."
+
+#~ msgid "Image Style..."
+#~ msgstr "Resim Biçemi..."
+
+#~ msgid "Cell Style..."
+#~ msgstr "Hücre Biçemi..."
+
+#~ msgid "Table Style..."
+#~ msgstr "Tablo Biçemi..."
+
+#~ msgid "Page Style..."
+#~ msgstr "Sayfa Biçemi..."
+
+#~ msgid "Table insert"
+#~ msgstr "Tablo ekle"
+
+#~ msgid "Row above"
+#~ msgstr "Üst satır"
+
+#~ msgid "Row below"
+#~ msgstr "Alt satır"
+
+#~ msgid "Column before"
+#~ msgstr "Önceki sütun"
+
+#~ msgid "Column after"
+#~ msgstr "Sonraki sütun"
+
+#~ msgid "Table delete"
+#~ msgstr "Tablo sil"
+
+#~ msgid "Cell contents"
+#~ msgstr "Hücre içeriği"
+
+#~ msgid "Add Word to"
+#~ msgstr "Kelimeyi Ekle"
+
+#~ msgid "Replace confirmation"
+#~ msgstr "Değiştirme doğrulaması"
+
+#~ msgid "Search _backward"
+#~ msgstr "_Geriye doğru ara"
+
+#~ msgid "_Backward"
+#~ msgstr "_Geri"
+
+#~ msgid "_Regular Expression"
+#~ msgstr "_Düzenli İfade"
+
+#~ msgid "Input the words you want to search here"
+#~ msgstr "Aramak istediğiniz kelimeleri buraya girin"
+
+#~ msgid ""
+#~ "Unable to add word to dictionary,\n"
+#~ "language settings are broken.\n"
+#~ msgstr ""
+#~ "Kelime sözlüğe eklenemedi,\n"
+#~ "dil ayarları bozuk.\n"
+
+#~ msgid "No misspelled word found"
+#~ msgstr "Hatalı yazılmış sözcük bulunamadı"
+
+#~ msgid "Spell checker"
+#~ msgstr "Sözdizim denetimi"
+
+#~ msgid "Note"
+#~ msgstr "Not"
+
+#~ msgid "Place your text here"
+#~ msgstr "Metni buraya girin"
+
+#~ msgid "Image frame"
+#~ msgstr "Resim çerçevesi"
+
+#~ msgid "Template Labels"
+#~ msgstr "Şablon Etiketleri"
+
+#~ msgid "Open file..."
+#~ msgstr "Dosya aç..."
+
+#~ msgid "Save file as..."
+#~ msgstr "Dosyayı farklı kaydet..."
+
+#~ msgid "GtkHTML Editor Test Container"
+#~ msgstr "GtkHTML Düzenleyicisi Deneme Taşıyıcısı"
+
+#~ msgid "Left align"
+#~ msgstr "Sola yasla"
+
+#~ msgid "Right align"
+#~ msgstr "Sağa yasla"
+
+#~ msgid "Toggle typewriter font style"
+#~ msgstr "Daktilo yazısı yazıtipini aç/kapa"
+
+#~ msgid "Makes the text bold"
+#~ msgstr "Harfleri kalınlaştırır"
+
+#~ msgid "Makes the text italic"
+#~ msgstr "Harfleri eğik yapar"
+
+#~ msgid "Underlines the text"
+#~ msgstr "Metni altı çizgili yapar"
+
+#~ msgid "Strikes out the text"
+#~ msgstr "Metnin üstünü çizer"
+
+#~ msgid "Unindent"
+#~ msgstr "Girintiyi azalt"
+
+#~ msgid "Indents the paragraphs less"
+#~ msgstr "Paragraf girintisini azaltır"
+
+#~ msgid "Indent"
+#~ msgstr "Girintile"
+
+#~ msgid "Indents the paragraphs more"
+#~ msgstr "Paragraf girintisini arttırır"
+
+#~ msgid "Text Color"
+#~ msgstr "Metin Rengi"
+
+#~ msgid "Sample"
+#~ msgstr "Örnek"
+
+#~ msgid ""
+#~ "The edited object was removed from the document.\n"
+#~ "Cannot apply your changes."
+#~ msgstr ""
+#~ "Değiştirilmiş nesne belgeden silindi.\n"
+#~ "Değişiklikleriniz uygulanamıyor."
+
+#~ msgid "Editable"
+#~ msgstr "Düzenlenebilir"
+
+#~ msgid "Document Title"
+#~ msgstr "Belge Başlığı"
+
+#~ msgid "The title of the current document"
+#~ msgstr "Geçerli belgenin başlığı"
+
+#~ msgid "Document Base"
+#~ msgstr "Belge Temeli"
+
+#~ msgid "The base URL for relative references"
+#~ msgstr "Göreceli referanslar için URL temeli"
+
+#~ msgid "Target Base"
+#~ msgstr "Hedef Temeli"
+
+#~ msgid "The base URL of the target frame"
+#~ msgstr "Hedef çerçevenin URL temeli"
+
+#~ msgid "Fixed Width Font"
+#~ msgstr "Sabit Genişlikli Yazıtipi"
+
+#~ msgid "The Monospace font to use for typewriter text"
+#~ msgstr "Daktilo metini için kullanılacak Sabit Boyutlu (monospace) yazıtipi"
+
+#~ msgid "New Link Color"
+#~ msgstr "Yeni Bağlantı Rengi"
+
+#~ msgid "The color of new link elements"
+#~ msgstr "Yeni bağlantı öğelerinin rengi"
+
+#~ msgid "Visited Link Color"
+#~ msgstr "Ziyaret Edilmiş Bağlantı Rengi"
+
+#~ msgid "The color of visited link elements"
+#~ msgstr "Ziyaret edilmiş öğelerin rengi"
+
+#~ msgid "Active Link Color"
+#~ msgstr "Etkin Bağlantı Rengi"
+
+#~ msgid "The color of active link elements"
+#~ msgstr "Etkin bağlantı öğelerinin rengi"
+
+#~ msgid "Spelling Error Color"
+#~ msgstr "Yazım Hatalası Rengi"
+
+#~ msgid "The color of the spelling error markers"
+#~ msgstr "Yazım hatası belirteçlerinin rengi"
+
+#~ msgid "Cite Quotation Color"
+#~ msgstr "Alıntı Rengini Belirt"
+
+#~ msgid "The color of the cited text"
+#~ msgstr "Belirtilen metnin rengi"
+
+#~ msgid "Print pre_view"
+#~ msgstr "Baskı _önizleme"
+
+#~ msgid "Print preview"
+#~ msgstr "Baskı önizleme"
+
+#~ msgid "GtkHTML Test Application"
+#~ msgstr "GtkHTML Test Uygulaması"
+
+#~ msgid "Make the current Paragraph style Preformatted"
+#~ msgstr "Mevcut Paragraf biçemini Önbiçimlemeli yapar"
+
+#~ msgid "Preformatted"
+#~ msgstr "Önbiçimlenmiş"
+
+#~ msgid "Percent"
+#~ msgstr "Yüzde"
+
+#~ msgid "Pixels"
+#~ msgstr "Piksel"
+
+#~ msgid "Standard"
+#~ msgstr "Standart"
+
+#~ msgid "Dot item"
+#~ msgstr "Nokta öğesi"
+
+#~ msgid "Number item"
+#~ msgstr "Sayı öğesi"
+
+#~ msgid "Roman item"
+#~ msgstr "Romen rakamı öğesi"
+
+#~ msgid "Alphabeta item"
+#~ msgstr "Alfabeta öğesi"
+
+#~ msgid "Paste Quotation"
+#~ msgstr "Alıntı Olarak Yapıştır"
+
+#~ msgid "Background Color"
+#~ msgstr "Arkaplan Rengi"
+
+#~ msgid "Blue"
+#~ msgstr "Mavi"
+
+#~ msgid "Find And Replace"
+#~ msgstr "Bul ve Değiştir"
+
+#~ msgid "Green"
+#~ msgstr "Yeşil"
+
+#~ msgid "Insert Lick smiley into document..."
+#~ msgstr "Belgeye Dil Çıkartan surat ekle..."
+
+#~ msgid "Li_ck"
+#~ msgstr "_Dil çıkaran"
+
+#~ msgid "Orange"
+#~ msgstr "Turuncu"
+
+#~ msgid "Other..."
+#~ msgstr "Diğer..."
+
+#~ msgid "Purple"
+#~ msgstr "Mor"
+
+#~ msgid "Red"
+#~ msgstr "Kırmızı"
+
+#~ msgid "Su_perscript"
+#~ msgstr "Ü_st karakter"
+
+#~ msgid "Subs_cript"
+#~ msgstr "A_lt karakter"
+
+#~ msgid "Yellow"
+#~ msgstr "Sarı"
+
+#~ msgid "_Preformat"
+#~ msgstr "Ö_nbiçim"
+
+#~ msgid "_Spell Check Document..."
+#~ msgstr "_Belge Sözdizimi Denetimi..."
+
+#~ msgid "_Strikeout"
+#~ msgstr "Üs_tü çizili"
+
+#~ msgid "etc..."
+#~ msgstr "vb..."
+
+#~ msgid "Length:"
+#~ msgstr "Uzunluk:"
+
+#~ msgid "Thickness:"
+#~ msgstr "Kalınlık:"
+
+#~ msgid "_Visit..."
+#~ msgstr "_Ziyaret Et..."
