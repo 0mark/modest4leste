@@ -1,6 +1,6 @@
 # modest4leste
 
-This is the documentation for the ongoing project to port the tiny mail client [Modest](https://github.com/lexborisov/Modest) to maemo leste. Modest is based on Tinymail (no link available, the projects page is gone).
+This is the documentation for the ongoing project to port the mail client [Modest](https://github.com/lexborisov/Modest) to maemo leste. Modest is based on Tinymail (no link available, the projects page is gone).
 
 ## Tinymail
 
