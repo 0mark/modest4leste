@@ -1,0 +1,70 @@
+libmodest-dbus-client (4:3.2.5-0+0m5) unstable; urgency=low
+
+  * This entry has been added by BIFH queue processor
+    Suffix +0m5 added to package revision
+
+ -- Sudheer Chiluveri <sudheer.chiluveri@nokia.com>  Mon, 08 Feb 2010 18:14:25 +0200
+
+libmodest-dbus-client (4:3.2.5-0) unstable; urgency=low
+
+  * Now GetUnreadMessages tells the total number of unread messages per account.
+
+ -- Moises Martinez <moises.martinez@nokia.com>  Thu, 04 Feb 2010 15:21:06 +0100
+
+libmodest-dbus-client (4:3.2.4-0) unstable; urgency=low
+
+  * Now GetUnreadMessages also tells the protocol of each account.
+
+ -- Moises Martinez <moises.martinez@nokia.com>  Thu, 28 Jan 2010 17:47:31 +0100
+
+libmodest-dbus-client (4:3.2.3-0) unstable; urgency=low
+
+  * Added GetUnreadMessages signal, that obtains a list of latest unread
+  * messages in each account.
+
+ -- Moises Martinez <moises.martinez@nokia.com>  Tue, 26 Jan 2010 19:06:40 +0100
+
+libmodest-dbus-client (4:3.2.2-0) unstable; urgency=low
+
+  * Add dbus signals account_created, account_removed, folder_updated and
+  *    msg_read_changed.
+
+ -- Moises Martinez <moises.martinez@nokia.com>  Tue, 26 Jan 2010 11:14:41 +0100
+
+libmodest-dbus-client (4:3.2.1-0) unstable; urgency=low
+
+  * Add API method UpdateFolderCounts
+
+ -- Moises Martinez <moises.martinez@nokia.com>  Mon, 18 Jan 2010 14:00:44 +0100
+
+libmodest-dbus-client (4:3.2.0-0) unstable; urgency=low
+
+  * Week 45, 2009 - release
+  * Add API method OpenEditAccountsDialog
+
+ -- Moises Martinez <moises.martinez@nokia.com>  Tues, 03 Nov 2009 18:09:00 +0300
+
+libmodest-dbus-client (4:3.1.0-0) unstable; urgency=low
+
+  * Week 42, 2009 - second release
+  * Add API method SendReceiveFull
+
+ -- Moises Martinez <moises.martinez@nokia.com>  Wed, 16 Oct 2009 11:18:00 +0200
+
+libmodest-dbus-client (4:1.0.0-2) unstable; urgency=low
+
+  * Week 42, 2009 - first release
+  *  With modest version changes in configure files of libmodest-dbus-client
+
+ -- Moises Martinez <moises.martinez@nokia.com>  Wed, 14 Oct 2009 10:35:53 +0300
+
+libmodest-dbus-client (4:1.0.0-1) unstable; urgency=low
+
+  * Week 37, 2009 release
+  *
+  * Releasing libmodest-dbus-client binaries in it's own source package.
+  *
+  * Fixes: NB#132625 - modest and libosso-abook have a cyclic dependency
+  *
+
+ -- Moises Martinez <moises.martinez@nokia.com>  Thu, 03 Sep 2009 11:33:46 +0300
