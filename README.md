@@ -22,4 +22,4 @@ Like Tinymail, Modest depends on GnomeVfs2. And has to be ported to Gvfs too.
 
 Also depends on libmodest-dbus-client. I could find some [tarballs](http://maemo.muarf.org/apt-mirror/mirror/repository.maemo.org/pool/maemo5.0/free/libm/libmodest-dbus-client/) of it, but not much more. It has no real license but a file which states that it comes from Nokia and can be distributed if some requierements are met. I am pretty sure i can include it in this repo (and i did so), but i think it should be rewritten. Its not that complicated i guess.
 
-My [Fork](https://github.com/0mark/modest).
+My [fork](https://github.com/0mark/modest). Right now, nothing there.
